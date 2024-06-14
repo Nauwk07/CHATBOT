@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', loadMessages);
 document.querySelector('#app').innerHTML = `
   <div class="chat-container">
     <h1><img src="homme-daffaire.png" alt="Icon" style="width: 30px; height: 30px; margin-right: 10px;">Chatbot 18.0</h1>
-    <p>Bots disponibles : Bot <b>Crypto</b>, Bot <b>F1</b>, Bot <b>Random</b></p>
+    <p>Bots disponibles : Utilise la commande help !</p>
     <div id="chatBox" class="chat-box">
       <div id="messages"></div>
     </div>
